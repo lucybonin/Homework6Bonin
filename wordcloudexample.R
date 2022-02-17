@@ -46,3 +46,4 @@ wordcloud(words = d$word,
           random.order = FALSE, 
           rot.per = 0.35, 
           colors = brewer.pal(8, "Dark2"))
+#repushing with message
